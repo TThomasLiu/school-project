@@ -1,0 +1,2 @@
+avg num,len list,int num
+itr num list num
